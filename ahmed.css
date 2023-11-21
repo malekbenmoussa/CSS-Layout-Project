@@ -1,0 +1,121 @@
+body{
+  font-family: sans-serif;
+}
+.logo-docplanner{
+    width: 200px;
+    top: 30px;
+    justify-content: flex-end;
+  }
+  nav{
+    display:flex;
+    justify-content:space-between
+  }
+  li{
+    display:inline-block;
+    margin-right:20px;
+    color:  #ababab
+  }
+  #unique{
+    color:#00b39b;
+  }
+  nav img{
+    width:100px;
+    top: 30px;
+  }
+ 
+  .forsection {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding:0px 200px;
+    color:white;
+    margin-top:70px
+}
+
+.for1, .for2, .for3 {
+    margin: 20px;
+}
+
+select {
+    width: 100%;
+    padding: 8px;
+    margin-top: 10px;
+}
+
+#select1, #select2, #select3 {
+    text-align: center;
+    margin-bottom:30px
+}
+
+/* Add more styling as needed */
+.for1 {
+    background-color: #00ccb1;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 2em 2em 0;
+    justify-content: space-between;
+    height: 270px; 
+    width: 450px;
+    }
+
+    .for2 {
+        background-color: #3d83df;
+        border-radius: 10px;
+        display: flex;
+        flex-direction: column;
+        padding: 2em 2em 0;
+        justify-content: space-between;
+        height: 270px;
+        width: 450px;}
+
+        .for3 {
+            background-color: #1b2734;
+            border-radius: 10px;
+            display: flex;
+            flex-direction: column;
+            padding: 2em 2em 0;
+            justify-content: space-between;
+            height: 270px ;
+            width: 450px;
+          }
+      
+            #headerlogo {
+              display: block;
+              margin-left: auto;
+              margin-right: auto;
+         height: 60px;
+         width: 60px;
+         margin-top:30px
+            }
+
+            #headerp{
+              text-align: center;
+              font-size:2.125rem;
+              color:#00b39b
+            }
+            .paragraphes2{
+              display:flex;
+              width: 80%;
+            
+           margin-left:100px;
+           padding:0px 50px;
+          
+            }
+            .paragraphes2 p {
+              padding-right:60px;
+              color:#747474;
+              line-height: 1.75;
+              font-weight: 500px
+            }
+             select{
+              border-color: transparent;
+              background: transparent;
+            color:white;
+            text-decoration: underline;
+            }
+          
+           
+      
+    
+    
