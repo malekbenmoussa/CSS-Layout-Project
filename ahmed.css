@@ -115,7 +115,10 @@ select {
             text-decoration: underline;
             }
           
-           
+            select option{
+              color:black
+            }
+          
       
     
     
